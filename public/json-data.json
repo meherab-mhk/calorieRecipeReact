@@ -1,0 +1,89 @@
+
+[
+    {
+      "recipe_id": 1,
+      "recipe_name": "Spicy Chicken Stir-Fry",
+      "recipe_image": "https://i.ibb.co/2MQX0P0/Spicy-Chicken-Stir-Fry-011a.jpg",
+      "short_description": "A flavorful and spicy chicken stir-fry with fresh vegetables.",
+      "ingredients": [
+        "550 g chicken breast, sliced",
+        "120 ml soy sauce",
+        "200 g basil leaves",
+        "400 g mushrooms, sliced"
+      ],
+      "preparing_time": 30,
+      "calories": 320
+    },
+    {
+      "recipe_id": 2,
+      "recipe_name": "Vegetable Curry",
+      "recipe_image": "https://i.ibb.co/MpGLnN7/Vegetable-Curry.jpg",
+      "short_description": "A hearty and comforting vegetable curry with aromatic spices.",
+      "ingredients": [
+        "500 g mixed vegetables (carrots, potatoes, peas)",
+        "400 ml coconut milk",
+        "150 g curry paste",
+        "100 g spinach leaves"
+      ],
+      "preparing_time": 45,
+      "calories": 280
+    },
+    {
+      "recipe_id": 3,
+      "recipe_name": "Caprese Salad",
+      "recipe_image": "https://i.ibb.co/tHc6L1B/Caprese-Salad-7.jpg",
+      "short_description": "A classic Italian salad featuring fresh tomatoes, mozzarella, and basil.",
+      "ingredients": [
+        "4 large tomatoes, sliced",
+        "250 g fresh mozzarella cheese, sliced",
+        "1/4 cup fresh basil leaves",
+        "2 tbsp balsamic vinegar"
+      ],
+      "preparing_time": 15,
+      "calories": 180
+    },
+    {
+      "recipe_id": 4,
+      "recipe_name": "Grilled Salmon with Lemon-Herb Butter",
+      "recipe_image": "https://i.ibb.co/DGQCQ8D/Grilled-Salmon-with-Lemon-Herb-Butter.jpg",
+      "short_description": "Tender grilled salmon fillets topped with a flavorful lemon-herb butter sauce.",
+      "ingredients": [
+        "4 salmon fillets",
+        "2 lemons, juiced and zested",
+        "4 tbsp butter, softened",
+        "2 tbsp chopped fresh herbs (parsley, dill, chives)"
+      ],
+      "preparing_time": 20,
+      "calories": 350
+    },
+    {
+      "recipe_id": 5,
+      "recipe_name": "Mango Avocado Salsa",
+      "recipe_image": "https://i.ibb.co/9ZhRby6/Mango-Avocado-Salsa-10.jpg",
+      "short_description": "A refreshing and colorful salsa with ripe mangoes, creamy avocado, and zesty lime.",
+      "ingredients": [
+        "2 ripe mangoes, diced",
+        "2 ripe avocados, diced",
+        "1/2 red onion, finely chopped",
+        "1/4 cup chopped cilantro",
+        "1 lime, juiced"
+      ],
+      "preparing_time": 10,
+      "calories": 120
+    },
+    {
+      "recipe_id": 6,
+      "recipe_name": "Pasta Primavera",
+      "recipe_image": "https://i.ibb.co/R9kS2V2/pasta-primavera.jpg",
+      "short_description": "A light and vibrant pasta dish with seasonal vegetables and a garlic-infused olive oil sauce.",
+      "ingredients": [
+        "400 g pasta (spaghetti or fettuccine)",
+        "2 zucchinis, thinly sliced",
+        "1 red bell pepper, thinly sliced",
+        "1 yellow bell pepper, thinly sliced",
+        "3 cloves garlic, minced"
+      ],
+      "preparing_time": 25,
+      "calories": 250
+    }
+  ]
